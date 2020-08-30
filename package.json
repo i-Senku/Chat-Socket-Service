@@ -1,0 +1,21 @@
+{
+  "name": "xuChat-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.9.27",
+    "socket.io": "^2.3.0"
+  }
+}
